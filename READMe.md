@@ -1,4 +1,4 @@
-**Configuring Advanced Firewall Features via Sensei (Zenarmor)**
+# Configuring Advanced Firewall Features via Sensei (Zenarmor)
 
 In this comprehensive lab, I delved into the installation,
 configuration, and overview of the Sensei module—a potent plugin
@@ -19,25 +19,25 @@ full help was enabled.
 
 The following screenshots illustrates step 1 more:
 
-<img src="./media/image1.emf" style="width:6.5in;height:5.39861in" />
+<img src="./media/image1.png" style="width:6.5in;height:5.39861in" />
 
-<img src="./media/image2.emf" style="width:6.5in;height:5.00278in" />
+<img src="./media/image2.png" style="width:6.5in;height:5.00278in" />
 
-<img src="./media/image3.emf" style="width:6.5in;height:5.00903in" />
+<img src="./media/image3.png" style="width:6.5in;height:5.00903in" />
 
-<img src="./media/image4.emf" style="width:6.5in;height:5.00278in" />
+<img src="./media/image4.png" style="width:6.5in;height:5.00278in" />
 
-<img src="./media/image5.emf" style="width:6.5in;height:4.97917in" />
+<img src="./media/image5.png" style="width:6.5in;height:4.97917in" />
 
-<img src="./media/image6.emf" style="width:6.5in;height:4.97361in" />
+<img src="./media/image6.png" style="width:6.5in;height:4.97361in" />
 
-<img src="./media/image7.emf" style="width:6.5in;height:5.00278in" />
+<img src="./media/image7.png" style="width:6.5in;height:5.00278in" />
 
-<img src="./media/image8.emf" style="width:6.5in;height:5.02083in" />
+<img src="./media/image8.png" style="width:6.5in;height:5.02083in" />
 
-<img src="./media/image9.emf" style="width:6.5in;height:5.00347in" />
+<img src="./media/image9.png" style="width:6.5in;height:5.00347in" />
 
-<img src="./media/image10.emf" style="width:6.5in;height:5.00278in" />
+<img src="./media/image10.png" style="width:6.5in;height:5.00278in" />
 
 **Step 2 - Startup Configuration Wizard:**
 
@@ -48,13 +48,13 @@ configurations, moving through the wizard, and completed the setup.
 Here in the following figures, I left everything at default and clicked
 next for the proceeding step.
 
-<img src="./media/image11.emf" style="width:6.5in;height:2.70347in" />
+<img src="./media/image11.png" style="width:6.5in;height:2.70347in" />
 
-<img src="./media/image12.emf" style="width:6.5in;height:3.57639in" />
+<img src="./media/image12.png" style="width:6.5in;height:3.57639in" />
 
-<img src="./media/image13.emf" style="width:6.5in;height:2.73889in" />
+<img src="./media/image13.png" style="width:6.5in;height:2.73889in" />
 
-<img src="./media/image14.emf" style="width:6.5in;height:2.03472in" />
+<img src="./media/image14.png" style="width:6.5in;height:2.03472in" />
 
 **Step 3 - Overview:**
 
@@ -63,9 +63,9 @@ visualization. Navigating to the Policies tab, I accessed security
 options. Notably, I discovered that advanced features required a paid
 subscription. This is manifested in the following figures below.
 
-<img src="./media/image15.emf" style="width:6.5in;height:3.93333in" />
+<img src="./media/image15.png" style="width:6.5in;height:3.93333in" />
 
-<img src="./media/image16.emf"
+<img src="./media/image16.png"
 style="width:3.65833in;height:6.01667in" />
 
 **Step 4 - Security Configuration:**
@@ -76,15 +76,15 @@ features. The App Controls section allowed me to manage application
 blocking. In Web Controls, I adjusted settings using a user-friendly
 GUI. These are manifested in the following figures below.
 
-<img src="./media/image17.emf" style="width:6.5in;height:4.99653in" />
+<img src="./media/image17.png" style="width:6.5in;height:4.99653in" />
 
-<img src="./media/image18.emf" style="width:6.5in;height:4.99653in" />
+<img src="./media/image18.png" style="width:6.5in;height:4.99653in" />
 
-<img src="./media/image19.emf" style="width:6.5in;height:3.24792in" />
+<img src="./media/image19.png" style="width:6.5in;height:3.24792in" />
 
-<img src="./media/image20.emf" style="width:6.5in;height:1.98542in" />
+<img src="./media/image20.png" style="width:6.5in;height:1.98542in" />
 
-<img src="./media/image21.emf"
+<img src="./media/image21.png"
 style="width:6.45833in;height:4.11667in" />
 
 **Conclusion Remark:**
